@@ -1,4 +1,4 @@
-# CODE-CLASSIFIER
+# Code-Classifier
 A competitive programming problem classifier system 
 
 Introduction: 
@@ -9,7 +9,8 @@ Goals of the FYProject is
 
 
 
-How to Build/Install? 
+#How to Build/Install? 
+
  Take a clone of the project directory. 
  Install Dependencies - nltk, sklearn, pickle 
  Open Google Chrome
